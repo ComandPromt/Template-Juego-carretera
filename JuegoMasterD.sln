@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JuegoMasterD", "JuegoMasterD.csproj", "{D9AE6657-4348-2B8E-F9AB-08EBA664C2E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JuegoMasterD.Editor", "JuegoMasterD.Editor.csproj", "{BD117B93-7CA5-5E7A-1D50-51B5C72C0164}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9AE6657-4348-2B8E-F9AB-08EBA664C2E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9AE6657-4348-2B8E-F9AB-08EBA664C2E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9AE6657-4348-2B8E-F9AB-08EBA664C2E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9AE6657-4348-2B8E-F9AB-08EBA664C2E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD117B93-7CA5-5E7A-1D50-51B5C72C0164}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD117B93-7CA5-5E7A-1D50-51B5C72C0164}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD117B93-7CA5-5E7A-1D50-51B5C72C0164}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD117B93-7CA5-5E7A-1D50-51B5C72C0164}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
